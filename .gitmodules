@@ -1,0 +1,6 @@
+[submodule "personal-page/themes/somrat"]
+	path = personal-page/themes/somrat
+	url = https://github.com/somratpro/somrat.git
+[submodule "personal-page/themes/ananke"]
+	path = personal-page/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
