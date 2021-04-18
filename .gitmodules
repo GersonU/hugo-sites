@@ -4,3 +4,6 @@
 [submodule "personal-page/themes/ananke"]
 	path = personal-page/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "personal-page/themes/researcher"]
+	path = personal-page/themes/researcher
+	url = https://github.com/ojroques/hugo-researcher.git
