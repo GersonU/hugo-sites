@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Hugo static site build directory
+*/public
