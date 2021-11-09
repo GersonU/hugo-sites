@@ -7,3 +7,6 @@
 [submodule "personal-page/themes/researcher"]
 	path = personal-page/themes/researcher
 	url = https://github.com/ojroques/hugo-researcher.git
+[submodule "personal-page/themes/hugo-coder"]
+	path = personal-page/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
